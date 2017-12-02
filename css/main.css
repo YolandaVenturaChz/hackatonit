@@ -1,0 +1,12 @@
+.msj {
+    border: 2px solid red;
+    
+}
+.new-msj {
+    border: 2px solid blue;
+    display: table-caption;
+}
+.nuevo {
+    border: 2px solid blueviolet;
+    background-color: aquamarine;
+}
